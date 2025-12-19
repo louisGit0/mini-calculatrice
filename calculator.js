@@ -3,7 +3,7 @@ function add(a, b) {
 }
 
 function sub(a, b) {
-  return null; // sera implémenté plus tard
+  return a - b; 
 }
 
 function mul(a, b) {
