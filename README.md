@@ -6,5 +6,4 @@ organisé avec un workflow Git Flow.
 ## Fonctionnalités
 - Addition (a + b)
 - Soustraction (a - b)
-
-
+- Multiplication (a * b)

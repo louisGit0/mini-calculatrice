@@ -1,13 +1,13 @@
 function add(a, b) {
-  return a + b; 
+  return a + b;
 }
 
 function sub(a, b) {
-  return a - b; 
+  return a - b;
 }
 
 function mul(a, b) {
-  return null; // sera implémenté plus tard
+  return a * b;
 }
 
 document.getElementById("btn").addEventListener("click", () => {
