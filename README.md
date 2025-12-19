@@ -4,4 +4,7 @@ Mini-projet de calculatrice web (HTML / CSS / JavaScript)
 organisé avec un workflow Git Flow.
 
 ## Fonctionnalités
-- Soudtraction (a - b)
+- Addition (a + b)
+- Soustraction (a - b)
+
+
